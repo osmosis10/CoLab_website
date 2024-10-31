@@ -14,13 +14,17 @@ body {
   color: #FFFFFF;
 }
 
+.ft1 {
+  padding-left: 150px;
+}
+
 /**
  * Links
  */
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#b13def;
 }
 a:focus {
   outline: thin dotted;
